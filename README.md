@@ -34,6 +34,13 @@ This repository contains the source code for a simple Android login and signup p
 - New users can click on the "Sign Up" button to create a new account by providing their email and password.
 - Existing users can log in by entering their email and password and clicking on the "Log In" button.
 - Upon successful authentication, users will be directed to the main application screen.
+
+## Resources
+
+The background images and other resources are uploaded in the Resources folder.
+
+- Add the iamges and edittext.xml file in drawable file on your android studio project.
+- Update the colors.xml file in values
   
 ## Screenshots
 
