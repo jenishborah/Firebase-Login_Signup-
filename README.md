@@ -20,6 +20,7 @@ This repository contains the source code for a simple Android login and signup p
 - Create a Firebase project in the Firebase Console.
 - Add an Android app to your Firebase project and download the google-services.json file.
 - Place the google-services.json file in the app/ directory of your Android project.
+- How to [Integrate Firebase AndroidProject](https://github.com/jenishborah/Firebase-Integration-with-Android-Project.git)
   
 3. Open the project in Android Studio:
 - Open Android Studio.
