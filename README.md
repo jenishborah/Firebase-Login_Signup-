@@ -37,10 +37,10 @@ This repository contains the source code for a simple Android login and signup p
 
 ## Resources
 
-The background images and other resources are uploaded in the Resources folder.
+The [background images](/Resources/Images/) and other resources are uploaded in the [Resources folder](/Resources/)
 
-- Add the iamges and edittext.xml file in drawable file on your android studio project.
-- Update the colors.xml file in values
+- Add the iamges and edittext.xml file in app/src/main/res/drawable/ on your android studio project.
+- Update the colors.xml file in app/src/main/res/values/colors.xml
   
 ## Screenshots
 
